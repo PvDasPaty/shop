@@ -1,33 +1,31 @@
 .footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-    background-color: #333;
-    color: #fff;
-  }
-  
-  .social-list {
-    list-style-type: none;
-    padding: 0;
-    display: flex;
-    text-decoration: none;
-    
-  }
-  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+}
 
-  
-  .social-list li {
-    margin-right: 10px;
-  }
-  
-  .company-info {
-    font-size: 0.8rem;
-    font-style: italic;
-  }
-  
-  .logo {
-    width: 100px; /* Ajuste o tamanho conforme necessário */
-    /* Posicione a logo à direita usando flexbox ou position */
-  }
-  
+.social-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  text-decoration: none;
+
+}
+
+
+
+.social-list li {
+  margin-right: 10px;
+}
+
+.company-info {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.logo {
+  width: 100px;
+}

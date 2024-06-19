@@ -8,7 +8,7 @@ const nextConfig = {
             "br.pinterest.com", 
             "icon-icons.com", 
             "pt.vecteezy.com",
-            "static.vecteezy.com" // Adicionando o domínio da imagem atual
+            "static.vecteezy.com" 
         ]
     }
 };
